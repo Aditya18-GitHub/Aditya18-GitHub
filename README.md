@@ -1,3 +1,5 @@
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Aditya Khairnar</h1>
+
 # 💫 About Me:
 Full Stack Developer passionate about building scalable web applications. <br>Currently learning System Design, AI, and Cloud technologies.
 
